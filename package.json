@@ -1,0 +1,22 @@
+{
+  "name": "httpreqpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panchalhemant2001/W2D1HttprequestPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panchalhemant2001/W2D1HttprequestPackage/issues"
+  },
+  "homepage": "https://github.com/panchalhemant2001/W2D1HttprequestPackage#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
